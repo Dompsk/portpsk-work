@@ -4,7 +4,7 @@ const Projectdata = [
     title: "Poolongtai",
     category: "Design Travel Website",
     categories: ["Ui design", "Frontend", "Backend"], // เพิ่ม Array สำหรับ Sidebar
-    tools: ["Figma", "PHP","HTML", "CSS" ,"Bootstrap" ], // เพิ่ม Tools
+    tools: ["Figma", "PHP","HTML", "CSS" ,"Bootstrap" ,"Javascript"], // เพิ่ม Tools
     date: "Jan 27, 2024",
     description: "Website recommending tourism in the southern region of Thailand. This platform helps users discover hidden gems and plan their trips effectively.",
     image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop",
