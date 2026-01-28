@@ -28,7 +28,7 @@ const TechStack = () => {
             <h4>Framework&Library</h4>
             <ul className="skill-list">
               <li className="skill-item">React</li>
-              <li className="skill-item">Boostrap</li>
+              <li className="skill-item">Bootstrap</li>
               <li className="skill-item">Tailwind</li>
 
             </ul>
