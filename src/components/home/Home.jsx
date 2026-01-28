@@ -15,9 +15,7 @@ const Home = () => {
         <a href="#project" className="project-button">
           View Project
         </a>
-        <a href="#Resume" className="project-button resume-button">
-          Resume
-        </a>
+        
       </div>
     </section>
   );
